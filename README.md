@@ -1,6 +1,12 @@
 # 🎬 Theatre Booking System
 
+![Home](https://github.com/user-attachments/assets/8a1f6931-b45c-4643-82d2-9140e42e1bd6)
+
 This is a **Theatre Booking System** built using **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**. It allows users to view and book movie tickets and provides an admin interface to manage the system efficiently.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b32ff03-edf7-4b02-ab5f-3467d70cd711" alt="GIF">
+</p>
 
 ## 🌟 Features
 
